@@ -1,4 +1,3 @@
-
 #include "esp_camera.h"
 #include "Arduino.h"
 #include "FS.h"                // SD Card ESP32
